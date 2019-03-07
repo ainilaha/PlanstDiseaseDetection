@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc932097-d22e-412d-a520-97592e04ef15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resnet_models.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_stat.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_processing.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="dc932097-d22e-412d-a520-97592e04ef15" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +79,21 @@
       <option name="presentableId" value="Default" />
       <updated>1551823046334</updated>
     </task>
+    <task id="LOCAL-00001" summary="resnet50">
+      <created>1551829017098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551829017098</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first model">
+      <created>1551829089131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551829089131</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -106,6 +117,11 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="resnet50" />
+    <MESSAGE value="first model" />
+    <option name="LAST_COMMIT_MESSAGE" value="first model" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resnet_models.ipynb">
